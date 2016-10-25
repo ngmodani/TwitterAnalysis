@@ -2,12 +2,11 @@
 
 This repository helps in doing very basic analysis on twitter data using Twitter Search API (not streaming).
 Following are the files in this repository and instructions to use them:
+Please run searchTweets.py before running any other file
 
 ## searchTweets.py
 example use: in terminal type 
 python searchTweets.py apple
-
-  Please run file 1 before running any other file
 
 ## userReach.py
 example use: in terminal type 

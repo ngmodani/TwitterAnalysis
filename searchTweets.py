@@ -12,10 +12,10 @@ query = args.search
 query = query.lower()
 
 # API call Arguments
-CONSUMER_KEY = "kkDcIct3CMaPW8yYB88YLaVyL"
-CONSUMER_SECRET = "6dWlU8yBR6t38lBneeW5FcxR1FCoJeIPipqNSCTHjfIxW8VtlK"
-ACCESS_KEY = "456545130-uY5aKKUC9o2aoY9RxUGMtXdwQJnIjcNrXuFL6bR4"
-ACCESS_SECRET = "PzVH3FBkMa9t9WWhhvHOzt9wPszdxcQbOObTr827CV3CO"
+CONSUMER_KEY = "API Key"
+CONSUMER_SECRET = "API Key"
+ACCESS_KEY = "API Key"
+ACCESS_SECRET = "API Key"
 # Authenticating & constructing API call
 consumer = oauth.Consumer(key=CONSUMER_KEY, secret=CONSUMER_SECRET)
 access_token = oauth.Token(key=ACCESS_KEY, secret=ACCESS_SECRET)
